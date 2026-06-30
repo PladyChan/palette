@@ -1,3 +1,3 @@
-# bu-shu
+# Palette
 
-Initial GitHub repository.
+A small color palette page published with GitHub Pages.
